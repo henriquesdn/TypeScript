@@ -1,0 +1,8 @@
+tsc --init to criate tsconfig.json
+
+1 - Data Types
+2 - Aliases and Interfaces
+3 - Union
+4 - Functions
+5 - Casting
+6 - Classes

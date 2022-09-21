@@ -1,0 +1,14 @@
+{
+  "name": "typescript-w3schools",
+  "version": "1.0.0",
+  "description": "Exercícios de TypeScript do site W3Schools",
+  "main": "TutorialType.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique Santos",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
